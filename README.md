@@ -8,7 +8,9 @@
 
 <h3 align="center">Regardez, travaillez, jouez. En même temps.</h3>
 
-<!-- VIDEO -->
+
+https://github.com/user-attachments/assets/4cbc78fc-fa96-49d4-bccd-1a6f4ba9ea98
+
 
 VirtualScreen découpe votre écran en zones que Windows voit comme de vrais écrans.
 Une série en plein écran dans un coin, votre travail à côté.
@@ -133,7 +135,7 @@ Si Windows affiche « Windows a protégé votre ordinateur », cliquez sur « In
 
 <h3 align="center">Watch, work, play. All at once.</h3>
 
-<!-- VIDEO -->
+https://github.com/user-attachments/assets/4cbc78fc-fa96-49d4-bccd-1a6f4ba9ea98
 
 VirtualScreen splits your screen into zones that Windows sees as real displays.
 A show playing full screen in one corner, your work right next to it.
