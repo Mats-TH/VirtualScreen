@@ -1,0 +1,43 @@
+name: Signaler un problème / Report a bug
+description: Quelque chose ne fonctionne pas comme prévu. / Something does not work as expected.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Faille de sécurité ? Ne l'écrivez pas ici** : voir [SECURITY.md](https://github.com/Mats-TH/VirtualScreen/blob/main/SECURITY.md).
+        **Security vulnerability? Do not report it here**: see [SECURITY.md](https://github.com/Mats-TH/VirtualScreen/blob/main/SECURITY.md).
+  - type: input
+    id: version
+    attributes:
+      label: Version de VirtualScreen / VirtualScreen version
+      description: « À propos » / "About"
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows et carte graphique / Windows and graphics card
+      placeholder: Windows 11 24H2, NVIDIA GeForce RTX 4070 (pilote 610.62)
+    validations:
+      required: true
+  - type: textarea
+    id: probleme
+    attributes:
+      label: Problème et étapes pour le reproduire / Problem and steps to reproduce
+      placeholder: |
+        1. …
+        2. …
+        Attendu / expected : …
+        Observé / observed : …
+    validations:
+      required: true
+  - type: textarea
+    id: journal
+    attributes:
+      label: Journal (facultatif) / Log (optional)
+      description: |
+        Menu de l'icône → « Ouvrir le journal » (%LOCALAPPDATA%\VirtualScreen\virtualscreen.log). Relisez-le avant de le coller.
+        Tray icon menu → log (%LOCALAPPDATA%\VirtualScreen\virtualscreen.log). Review it before pasting.
+      render: text

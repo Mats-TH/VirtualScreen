@@ -1,0 +1,15 @@
+name: Proposer une idée / Suggest an idea
+description: Une amélioration ou une nouvelle fonction. / An improvement or a new feature.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: besoin
+    attributes:
+      label: Votre besoin / What you need
+      description: Ce que vous voulez faire, et pourquoi. / What you want to do, and why.
+    validations:
+      required: true
+  - type: textarea
+    id: proposition
+    attributes:
+      label: Votre proposition (facultatif) / Your proposal (optional)
