@@ -1,6 +1,8 @@
 # Contrat de licence utilisateur de VirtualScreen
 
-**Français** · [English](#english) — *La version française de ce contrat prévaut ; la traduction anglaise est fournie pour information.*
+**Français** · [English](#english)
+
+*La version française de ce contrat prévaut ; la traduction anglaise est fournie pour information.*
 
 Version du 9 octobre 2026.
 
