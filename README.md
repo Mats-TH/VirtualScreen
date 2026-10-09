@@ -2,7 +2,15 @@
 
 **Français** · [English](#english)
 
-VirtualScreen découpe un grand écran — écran ultra-large, téléviseur — en plusieurs zones que Windows traite comme des écrans séparés. Chaque zone accueille ses propres fenêtres, se maximise et passe en plein écran sans toucher aux autres : une vidéo en plein écran dans un coin, votre travail à côté.
+<p align="center">
+  <img src="images/virtualscreen.png" alt="VirtualScreen : un écran 16:9 découpé en deux zones et un écran ultra-large découpé en trois zones" width="100%">
+</p>
+
+<h3 align="center">Un écran. Plusieurs vrais écrans.</h3>
+
+<!-- VIDEO -->
+
+VirtualScreen découpe n'importe quel écran — écran de bureau, portable, ultra-large ou téléviseur — en plusieurs zones que Windows traite comme des écrans séparés. Chaque zone accueille ses propres fenêtres, se maximise et passe en plein écran sans toucher aux autres : une vidéo en plein écran dans un coin, votre travail à côté.
 
 - **Découpe en zones** : préréglages prêts à l'emploi ou découpe personnalisée, dans un éditeur plein écran.
 - **Plusieurs écrans** : découpez les écrans de votre choix, chacun avec sa propre découpe.
@@ -10,6 +18,38 @@ VirtualScreen découpe un grand écran — écran ultra-large, téléviseur — 
 - **HDR et cartes NVIDIA** pris en charge, animations de bascule, test de fluidité.
 - **Raccourcis** : `Ctrl+Alt+S` active ou désactive la découpe ; `Ctrl+Alt+Maj+F12` arrête tout et rétablit l'affichage d'origine.
 - En français et en anglais.
+
+## En images
+
+<p align="center">
+  <img src="images/editeur-deux-ecrans.png" alt="L'éditeur plein écran ouvert sur deux écrans : un écran 16:9 en deux zones et un écran ultra-large en trois zones" width="100%"><br>
+  <sub><b>L'éditeur plein écran</b>, ouvert sur tous vos écrans à la fois.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="images/installation.png" alt="Installateur de VirtualScreen : installation du pilote d'affichage en cours" width="100%"><br>
+      <sub><b>Installation</b> : quelques clics, puis VirtualScreen démarre tout seul.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="images/decoupe.png" alt="Réglages, onglet Découpe : un écran ultra-large en deux zones et les préréglages" width="100%"><br>
+      <sub><b>Découpe</b> : un préréglage en un clic, ou votre propre découpe.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="images/general.png" alt="Réglages, onglet Général : raccourcis, démarrage, thème, langue, vidéos protégées, optimisation NVIDIA" width="100%"><br>
+      <sub><b>Général</b> : raccourcis, démarrage, langue, vidéos protégées, NVIDIA.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="images/a-propos.png" alt="À propos : mises à jour, matériel, empreinte de VirtualScreen et test de fluidité" width="100%"><br>
+      <sub><b>À propos</b> : mises à jour, matériel, empreinte et test de fluidité.</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Images tirées des maquettes de l'application ; les noms d'écrans et les valeurs affichées sont des exemples.</sub>
 
 ## Télécharger
 
@@ -61,7 +101,15 @@ VirtualScreen est un logiciel propriétaire gratuit, © 2026 Mats Thiebaud, tous
 
 # VirtualScreen (English)
 
-VirtualScreen splits a large screen — ultrawide monitor, TV — into several zones that Windows treats as separate displays. Each zone holds its own windows and can be maximized or go full screen without affecting the others: a full-screen video in one corner, your work next to it.
+<p align="center">
+  <img src="images/virtualscreen.png" alt="VirtualScreen: a 16:9 screen split into two zones and an ultrawide screen split into three zones" width="100%">
+</p>
+
+<h3 align="center">One screen. Many real displays.</h3>
+
+<!-- VIDEO -->
+
+VirtualScreen splits any screen — desktop monitor, laptop, ultrawide or TV — into several zones that Windows treats as separate displays. Each zone holds its own windows and can be maximized or go full screen without affecting the others: a full-screen video in one corner, your work next to it.
 
 - **Zones**: ready-made presets or your own custom split, in a full-screen editor.
 - **Multiple screens**: split the screens you choose, each with its own layout.
@@ -69,6 +117,38 @@ VirtualScreen splits a large screen — ultrawide monitor, TV — into several z
 - **HDR and NVIDIA graphics cards** supported, switch animations, smoothness test.
 - **Shortcuts**: `Ctrl+Alt+S` turns splitting on or off; `Ctrl+Alt+Shift+F12` stops everything and restores the original display.
 - In English and French.
+
+## Screenshots
+
+<p align="center">
+  <img src="images/editeur-deux-ecrans.png" alt="The full-screen editor open on two screens: a 16:9 screen in two zones and an ultrawide screen in three zones" width="100%"><br>
+  <sub><b>The full-screen editor</b>, open on all your screens at once.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="images/installation.png" alt="VirtualScreen installer: display driver installation in progress" width="100%"><br>
+      <sub><b>Installation</b>: a few clicks, then VirtualScreen starts on its own.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="images/decoupe.png" alt="Settings, Split tab: an ultrawide screen in two zones and the presets" width="100%"><br>
+      <sub><b>Split</b>: a preset in one click, or your own layout.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="images/general.png" alt="Settings, General tab: shortcuts, startup, theme, language, protected videos, NVIDIA optimization" width="100%"><br>
+      <sub><b>General</b>: shortcuts, startup, language, protected videos, NVIDIA.</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="images/a-propos.png" alt="About: updates, hardware, VirtualScreen footprint and smoothness test" width="100%"><br>
+      <sub><b>About</b>: updates, hardware, footprint and smoothness test.</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>Images taken from the application's design mockups, shown in French; screen names and values are examples.</sub>
 
 ## Download
 
