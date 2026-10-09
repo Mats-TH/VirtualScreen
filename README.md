@@ -6,7 +6,7 @@
   <img src="images/virtualscreen.png" alt="VirtualScreen : un écran 16:9 découpé en deux zones et un écran ultra-large découpé en trois zones" width="100%">
 </p>
 
-<h3 align="center">Un écran. Plusieurs vrais écrans.</h3>
+<h3 align="center">Regardez, travaillez, jouez. En même temps.</h3>
 
 <!-- VIDEO -->
 
@@ -131,7 +131,7 @@ Si Windows affiche « Windows a protégé votre ordinateur », cliquez sur « In
   <img src="images/virtualscreen.png" alt="VirtualScreen: a 16:9 screen split into two zones and an ultrawide screen split into three zones" width="100%">
 </p>
 
-<h3 align="center">One screen. Many real displays.</h3>
+<h3 align="center">Watch, work, play. All at once.</h3>
 
 <!-- VIDEO -->
 
